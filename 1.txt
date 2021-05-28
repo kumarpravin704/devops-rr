@@ -5,4 +5,8 @@ edit by pravs
 
 feature1
 feture2
+<<<<<<< HEAD
 
+=======
+hotfix1
+>>>>>>> hotfix1
